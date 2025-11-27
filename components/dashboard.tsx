@@ -70,7 +70,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
       <main className="flex-1">
         {/* Header */}
         <header className="flex items-center justify-between p-4 border-b bg-background/60 backdrop-blur-xl">
-          <h1 className="text-xl font-semibold">Dashboard</h1>
+          <h1 className="text-xl font-semibold">Dashboards</h1>
 
           <div className="flex items-center gap-3">
             <Avatar>
